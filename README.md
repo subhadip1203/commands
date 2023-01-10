@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
-## Usage
+## Usage Python
 
 ```python
 import foobar
@@ -23,6 +23,18 @@ foobar.pluralize('goose')
 
 # returns 'phenomenon'
 foobar.singularize('phenomena')
+```
+
+## Usage Javascripts
+
+```javascript
+
+// const variable
+const x = 10
+
+//console log
+console.log(x)
+
 ```
 
 ## Contributing
