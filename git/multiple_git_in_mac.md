@@ -106,3 +106,5 @@ ssh -T github.com/subhadipsjsc
 ### # Adds the relevant ssh key
 
 `ssh-add ~/.ssh/id_rsa_subhadip1203`
+
+`ssh-add ~/.ssh/id_rsa_subhadipsjsc`
