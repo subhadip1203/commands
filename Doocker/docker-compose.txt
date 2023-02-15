@@ -1,0 +1,9 @@
+
+# build  docker compose images
+docker-compose build
+
+# run the docker compose container in background mode
+Docker-compose up -d
+
+# stop all docker container from docker compose file
+Docker-compose down
