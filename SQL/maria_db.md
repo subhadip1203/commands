@@ -1,3 +1,6 @@
 ### Mariadb database proxy
 
-Read-Write splitting with MaxScale
+ProxySQL : proxy and Read/Write split
+maradb : master- slave
+Galera Cluster : master - master
+
